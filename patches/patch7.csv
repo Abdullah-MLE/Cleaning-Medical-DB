@@ -1,51 +1,51 @@
-drug_name,dose,form
-advanced vitamin c,90 mg,gummies
-advancevela max massage,50 gm,cream
-advancrib,400 mg,tabs
-advanopain,200 mcg,sublingual tabs
-advic,50 gm,cream
-advil,200 mg,tab
-advil,20 mg,suspension
-advil cold & sinus,20 mg,cap
-advil cold and sinus,10 mg,coated caplets
-advil concetrared,15 ml,drops
-advil effective medicine,200 mg,tab
-advil ibuprofen,10 mg,tab
-advil rhume et sinus,20 mg,tab
-advipro cough & cold,120 ml,syrup
-advo collagen,7 mg,sachets
-advochol,10 mg,tabs
-advochol,10 mg,tabs
-advochol,10 mg,tabs
-advoctam,4.5 gm,pd
-advodmontace,5 mg,tab
-advohelix,120 ml,syrup
-advomikacin,500 mg / 2 ml,vial
-advoserc,24 mg,tab
-advotinpo,50 mg,caps
-advoxin,400 mg,tabs
-adwibone,60 mg,tab
-adwiflam infants,12.5 mg,supp
-adwiflam,25 mg,tab
-adwiflam children,25 mg,supp
-adwiflam,50 mg,sachets
-adwiflam,50 mg,er caps
-adwiflam,50 mg,er caps
-adwiflam,75 mg,supp
-adwiflam,75 mg / 3 ml,amp
-adwiflam,30 gm,emulgel
-adwiflam,50 gm,emulgel
-adwifloxacen,400 mg,tabs
-adwimove,20 gm,topical gel
-adwimove,50 gm,topical gel
-adwinerve,500 mcg,caps
-adwinerve plus,20 mg,caps
-adwiprazole,10 mg,tab
-adwiprazole,30 mg,tab
-adwipril,2 mg,tab
-adwipril,4 mg,tab
-adwisept,10 %,vag douche
-adwisomn,25 mg,cap
-adwistadine,5 mg,scored fc tabs
-adwistadine,7.5 mg,tabs
-adwitine,30 mg,caps
+original_name,drug_name,dose,form
+advanced vitamin c 90 gummies,advanced vitamin c,90 mg,gummies
+advancevela max massage 50gm cream,advancevela max massage,50 gm,cream
+advancrib 400 mg 5 f.c. tabs.,advancrib,400 mg,tabs
+advanopain 200 mcg 4 sublingual tabs.,advanopain,200 mcg,sublingual tabs
+advic cream 50 gm,advic,50 gm,cream
+advil 200mg 24 tab,advil,200 mg,tab
+advil 20mg suspension,advil,20 mg,suspension
+advil cold & sinus 20 cap,advil cold & sinus,20 mg,cap
+advil cold and sinus 10 coated caplets,advil cold and sinus,10 mg,coated caplets
+advil concetrared drops 15 ml,advil concetrared,15 ml,drops
+advil effective medicine 200mg 24 tab,advil effective medicine,200 mg,tab
+advil ibuprofen 10 tab,advil ibuprofen,10 mg,tab
+advil rhume et sinus 20 tab imp,advil rhume et sinus,20 mg,tab
+advipro cough & cold syrup 120ml,advipro cough & cold,120 ml,syrup
+advo collagen 7 sachets,advo collagen,7 mg,sachets
+advochol 10mg 14 f.c. tabs.,advochol,10 mg,tabs
+advochol 10mg 28 f.c. tabs.,advochol,10 mg,tabs
+advochol 10mg 7 f.c. tabs. (n/a),advochol,10 mg,tabs
+advoctam 4.5 gm pd. for iv inf.,advoctam,4.5 gm,pd
+advodmontace 5mg tab,advodmontace,5 mg,tab
+advohelix syrup 120 ml,advohelix,120 ml,syrup
+advomikacin 500mg/2ml vial,advomikacin,500 mg / 2 ml,vial
+advoserc 24 mg 10 tab.,advoserc,24 mg,tab
+advotinpo 50 mg 10 caps.,advotinpo,50 mg,caps
+advoxin 400 mg 5 f.c. tabs.,advoxin,400 mg,tabs
+adwibone 60 tab,adwibone,60 mg,tab
+adwiflam 12.5mg infants 5 supp.,adwiflam infants,12.5 mg,supp
+adwiflam 25 mg 20 f.c.tab,adwiflam,25 mg,tab
+adwiflam 25mg children 5 supp.,adwiflam children,25 mg,supp
+adwiflam 50 mg 10 sachets,adwiflam,50 mg,sachets
+adwiflam 50mg e.r. 20 caps.,adwiflam,50 mg,er caps
+adwiflam 50mg e.r. 30 caps.,adwiflam,50 mg,er caps
+adwiflam 75mg 5 supp.,adwiflam,75 mg,supp
+adwiflam 75mg/3ml 6 amp.,adwiflam,75 mg / 3 ml,amp
+adwiflam emulgel 30 gm,adwiflam,30 gm,emulgel
+adwiflam emulgel 50 gm,adwiflam,50 gm,emulgel
+adwifloxacen 400 mg 7 f.c. tabs.,adwifloxacen,400 mg,tabs
+adwimove topical gel 20 gm,adwimove,20 gm,topical gel
+adwimove topical gel 50 gm,adwimove,50 gm,topical gel
+adwinerve 500 mcg 20 caps.,adwinerve,500 mcg,caps
+adwinerve plus 20 caps.,adwinerve plus,20 mg,caps
+adwiprazole 10mg 30 f.c. tab.,adwiprazole,10 mg,tab
+adwiprazole 30mg 10 f.c.tab.,adwiprazole,30 mg,tab
+adwipril 2mg 10 tab.,adwipril,2 mg,tab
+adwipril 4 mg 30 tab.,adwipril,4 mg,tab
+adwisept 10% vag. douche 120 ml,adwisept,10 %,vag douche
+adwisomn 25 mg 20 cap. (n/a),adwisomn,25 mg,cap
+adwistadine 5 mg 30 scored f.c.tabs.,adwistadine,5 mg,scored fc tabs
+adwistadine 7.5mg 30 f.c.tabs.,adwistadine,7.5 mg,tabs
+adwitine 30 mg 30 caps.,adwitine,30 mg,caps

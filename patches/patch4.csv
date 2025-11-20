@@ -1,51 +1,51 @@
-drug_name,dose,form
-actifast,50 mg,tablet
-actifast,50 mg,sachet
-actifed,Null,tablet
-actifed expectorant,120 ml,syrup
-actifed,120 ml,syrup
-actiflash massage,100 gm,gel
-actiflash massage,50 gm,gel
-actiflexin,Null,capsule
-actiher,3 gm,sachet
-actilyse,50 mg,vial
-actimar,Null,capsule
-actimaxvit,Null,capsule
-actimo,100 mg,sachet
-actimoxiflox,400 mg,tablet
-actimoxiflox,400 mg,tablet
-actimoxiflox,400 mg,tablet
-activase,50 mg,vial
-activat,Null,sachet
-activate,200 mg,tablet
-active hair,100 gm,cream
-active hair,250 ml,lotion
-active hair,120 ml,oil
-active hair,60 ml,oil
-active hair,250 ml,shampoo
-active man,Null,tablet
-active massage,50 gm,cream
-active women,Null,tablet
-active-meno,Null,tablet
-activelle,Null,tablet
-activen,Null,tablet
-activent,8 mg,capsule
-activin,Null,tablet
-activity massage,75 gm,cream
-actnow,Null,capsule
-acto-c mouth,60 ml,spray
-actoday,5 mg,tablet
-actoflex,Null,gel
-actolind,30 ml,gel
-actolind,50 ml,gel
-actonel,35 mg,tablet
-actonel,5 mg,tablet
-actonl cream massage,60 mg,Null
-actos,15 mg,tablet
-actos,30 mg,tablet
-actoseb with calcium,Null,tablet
-actoweek,35 mg,tablet
-actozone,30 mg,tablet
-actozone,45 mg,tablet
-actrapid hm,100 i.u./ml,vial
-actrapid hm,100 i.u./ml,penfills
+original_name,drug_name,dose,form
+actifast 50mg 30 f.c.tab.,actifast,50 mg,tablet
+actifast 50mg 6 sachets,actifast,50 mg,sachet
+actifed 12 tab.,actifed,Null,tablet
+actifed expectorant syrup 120 ml,actifed expectorant,120 ml,syrup
+actifed syrup 120ml,actifed,120 ml,syrup
+actiflash massage gel 100 gm,actiflash massage,100 gm,gel
+actiflash massage gel 50 gm,actiflash massage,50 gm,gel
+actiflexin 30 caps.,actiflexin,Null,capsule
+actiher 10 sachets * 3 gm,actiher,3 gm,sachet
+actilyse 50 mg 2 vials+2 solvents i.v. inf.,actilyse,50 mg,vial
+actimar 30 caps.,actimar,Null,capsule
+actimaxvit 15 caps.,actimaxvit,Null,capsule
+actimo 100 mg 14 sachets,actimo,100 mg,sachet
+actimoxiflox 400 mg 10 f.c. tabs.,actimoxiflox,400 mg,tablet
+actimoxiflox 400 mg 5 f.c.tabs.,actimoxiflox,400 mg,tablet
+actimoxiflox 400 mg 7 f.c.tabs.,actimoxiflox,400 mg,tablet
+activase 50mg 29miu (2vials),activase,50 mg,vial
+activat 10 sachets,activat,Null,sachet
+activate 200mg 40 sugar coated tab.,activate,200 mg,tablet
+active hair cream 100 gm,active hair,100 gm,cream
+active hair lotion 250 ml,active hair,250 ml,lotion
+active hair oil 120 ml,active hair,120 ml,oil
+active hair oil 60 ml,active hair,60 ml,oil
+active hair shampoo 250 ml,active hair,250 ml,shampoo
+active man 20 tab,active man,Null,tablet
+active massage cream 50 gm,active massage,50 gm,cream
+active women 20 tab,active women,Null,tablet
+active-meno 30 tabs.,active-meno,Null,tablet
+activelle 28 tab,activelle,Null,tablet
+activen 20 tab,activen,Null,tablet
+activent 8mg sr 20 cap.,activent,8 mg,capsule
+activin 20 tab.,activin,Null,tablet
+activity massage cream 75 gm,activity massage,75 gm,cream
+actnow 10 capsules,actnow,Null,capsule
+acto-c mouth spray 60 ml,acto-c mouth,60 ml,spray
+actoday 5 mg 10 f.c. tab.,actoday,5 mg,tablet
+actoflex 3% topical gel 25 gm,actoflex,Null,gel
+actolind gel 30 ml,actolind,30 ml,gel
+actolind gel 50 ml,actolind,50 ml,gel
+actonel 35mg once-a-week 2 f.c. tab. (n/a),actonel,35 mg,tablet
+actonel 5mg 14 f.c. tab.,actonel,5 mg,tablet
+actonl cream massage 60 mg,actonl cream massage,60 mg,Null
+actos 15mg 30 tab.,actos,15 mg,tablet
+actos 30mg 30 tab.,actos,30 mg,tablet
+actoseb with calcium 28 f.c. tab.(biphasic),actoseb with calcium,Null,tablet
+actoweek 35 mg 1 f.c. tab.,actoweek,35 mg,tablet
+actozone 30mg 10 tab.,actozone,30 mg,tablet
+actozone 45mg 10 tab.,actozone,45 mg,tablet
+actrapid hm 100 i.u./ml 10 ml vial,actrapid hm,100 i.u./ml,vial
+actrapid hm 100 i.u./ml 5*3ml penfills,actrapid hm,100 i.u./ml,penfills

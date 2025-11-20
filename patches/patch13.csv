@@ -1,51 +1,51 @@
-drug_name,dose,form
-alganovo masssage,50 gm,gel
-alganovo masssage,125 ml,spray
-algason massage,40 gm,cream
-algesal suractive,40 gm,cream
-algibaume,25 gm,cream
-algicab,120 ml,suspension
-alhydran,100 ml,gel
-alhydran,30 ml,gel
-aliamare nasal,100 ml,spray
-alimta,100 mg,vial
-alimta,500 mg,vial
-alin,Null,Null
-aliquam anti-dandruff shampoo,200 ml,shampoo
-alirosa,Null,capsule
-aliva,Null,tablet
-alizolam,2 mg,tablet
-alka,Null,sachet
-alka rose massage,50 gm,cream
-alka seltzer,Null,tablet
-alka seltzer original,Null,tablet
-alka seltzer plus cold & flu,Null,tablet
-alka-misr alkaline wash,Null,powder
-alka-misr alkaline wash,Null,powder
-alkaline wash (sap),Null,sachet
-alkalipurin,2.4 g/2.5 gm,granule
-alkament,Null,sachet
-alkamint,Null,powder
-alkanazole,150 mg,capsule
-alkanazole,150 mg,capsule
-alkanol,Null,solution
-alkapezil,10 mg,tablet
-alkapezil,5 mg,tablet
-alkapowder alkaline,Null,powder
-alkapress,10 mg,tablet
-alkapress,5 mg,tablet
-alkapress plus,10/160 mg,tablet
-alkapress plus,10/320 mg,tablet
-alkapress plus,5/160 mg,tablet
-alkapress trio,10/320/25 mg,tablet
-alkapress trio,5/160/12.5 mg,tablet
-alkapress trio,5/160/25 mg,tablet
-alkapride,50 mg,tablet
-alkasilon,200 ml,Null
-alkaspirin,Null,tablet
-alkeran,2 mg,tablet
-alkeran,2 mg,tablet
-alkeran,50 mg,vial
-alkeran,5 mg,tablet
-alkomag,120 ml,suspension
-alkor,10 mg,tablet
+original_name,drug_name,dose,form
+alganovo masssage gel 50 gm,alganovo masssage,50 gm,gel
+alganovo masssage spray 125 ml,alganovo masssage,125 ml,spray
+algason massage cream 40 gm,algason massage,40 gm,cream
+algesal suractive cream 40 gm,algesal suractive,40 gm,cream
+algibaume cream 25 gm,algibaume,25 gm,cream
+algicab susp. 120 ml,algicab,120 ml,suspension
+alhydran gel 100ml,alhydran,100 ml,gel
+alhydran gel 30ml,alhydran,30 ml,gel
+aliamare nasal spray 100ml,aliamare nasal,100 ml,spray
+alimta 100 mg pwd. for i.v. inf. vial,alimta,100 mg,vial
+alimta 500mg i.v. vial(tender),alimta,500 mg,vial
+alin 20 pieces,alin,Null,Null
+aliquam anti-dandruff shampoo 200 ml,aliquam anti-dandruff shampoo,200 ml,shampoo
+alirosa 30 caps,alirosa,Null,capsule
+aliva 30 tabs,aliva,Null,tablet
+alizolam 2mg 10 tab.,alizolam,2 mg,tablet
+alka 10 sachets,alka,Null,sachet
+alka rose massage cream 50 gm,alka rose massage,50 gm,cream
+alka seltzer 24 tab,alka seltzer,Null,tablet
+alka seltzer original 58 tab,alka seltzer original,Null,tablet
+alka seltzer plus cold & flu 12 tab,alka seltzer plus cold & flu,Null,tablet
+alka-misr alkaline wash powder 10 sachets,alka-misr alkaline wash,Null,powder
+alka-misr alkaline wash powder 12 sachets,alka-misr alkaline wash,Null,powder
+alkaline wash (sap) sachet.,alkaline wash (sap),Null,sachet
+alkalipurin 2.4g/2.5gm granules (n/a),alkalipurin,2.4 g/2.5 gm,granule
+alkament 12 sachet.,alkament,Null,sachet
+alkamint powder,alkamint,Null,powder
+alkanazole 150 mg 2 caps.,alkanazole,150 mg,capsule
+alkanazole 150mg 1 caps.,alkanazole,150 mg,capsule
+alkanol solution.,alkanol,Null,solution
+alkapezil 10 mg 7 f.c. tabs.,alkapezil,10 mg,tablet
+alkapezil 5 mg 10 f.c. tabs.,alkapezil,5 mg,tablet
+alkapowder alkaline powder 12 sachets,alkapowder alkaline,Null,powder
+alkapress 10mg 30 tab.,alkapress,10 mg,tablet
+alkapress 5mg 20 tab.,alkapress,5 mg,tablet
+alkapress plus 10/160mg 20 f.c. tabs.,alkapress plus,10/160 mg,tablet
+alkapress plus 10/320 mg 7 f.c. tab.,alkapress plus,10/320 mg,tablet
+alkapress plus 5/160mg 14 f.c. tabs.,alkapress plus,5/160 mg,tablet
+alkapress trio 10/320/25mg 14 f.c. tabs.,alkapress trio,10/320/25 mg,tablet
+alkapress trio 5/160/12.5mg 14 f.c. tabs.,alkapress trio,5/160/12.5 mg,tablet
+alkapress trio 5/160/25mg 14 f.c. tabs.,alkapress trio,5/160/25 mg,tablet
+alkapride 50 mg 30 scored tabs.,alkapride,50 mg,tablet
+alkasilon 200ml,alkasilon,200 ml,Null
+alkaspirin 24 tab.,alkaspirin,Null,tablet
+alkeran 2mg 25 f.c.tablets,alkeran,2 mg,tablet
+alkeran 2mg 25 tablets,alkeran,2 mg,tablet
+alkeran 50mg 1 vial,alkeran,50 mg,vial
+alkeran 5mg 25 tablets,alkeran,5 mg,tablet
+alkomag susp. 120 ml,alkomag,120 ml,suspension
+alkor 10 mg 14 f.c. tabs.,alkor,10 mg,tablet

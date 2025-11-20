@@ -1,51 +1,51 @@
-drug_name,dose,form
-angiopress comp,50/25 mg,tab
-angiosartan,10 mg,tabs
-angiosartan,20 mg,tabs
-angiosartan,40 mg,tabs
-angiosartan plus,20/12.5 mg,tabs
-angiosartan plus,20/25 mg,tabs
-angiosartan plus,40/12.5 mg,tabs
-angiosartan plus,40/25 mg,tabs
-angiovan,5 mg,tab
-angiprotect,20 mg,tabs
-angised,0.5 mg,tab
-angitect,60 mg,tab
-angosmooth,75 mg,tabs
-angurate,Null,bags
-anika hair,250 ml,conditioner
-anika hair,75 ml,serum
-anika hair,250 ml,shampoo
-animal shapes usp,Null,tab
-anise isis,Null,sachets
-anisol,Null,cap
-anivagene man,2.5 ml,ampoules
-anivagene woman,2.5 ml,ampoules
-anivagene anti-dandruff,200 ml,shampoo
-anivagene,125 ml,conditioner
-anivagene eyelash,10 ml,serum
-anivagene hair,125 ml,mask
-anivagene man,200 ml,shampoo
-anivagene woman,200 ml,shampoo
-ankle brace,Null,Null
-anona care hair,200 ml,oil
-anona hair antifrizz,250 ml,serum
-anona hair,120 ml,lotion
-anona vaginal,120 ml,wash
-anoro ellipta,62.5/25 mcg,inhaler
-anovca,50 gm,cream
-anovca tooth,30 gm,gel
-anoxicam,20 mg,supp
-anoxicam,20 mg,tab
-anschlarin,120 ml,syrup
-anselacox,120 mg,tabs
-anselacox,30 mg,tabs
-anselacox,60 mg,tabs
-anselacox,90 mg,tabs
-anselafil,10 mg/ml,susp
-antacid-jedco,480 mg,chewable tab
-antacidin,Null,tab
-antacidin plus,Null,tab
-anthelios dermo-pediatrics spf 50+,200 ml,lotion
-anthelios dermo-pediatrics spf 50+,200 ml,spray
-anthelios hydrating cream spf50,50 ml,cream
+original_name,drug_name,dose,form
+angiopress comp 50/25mg 30tab,angiopress comp,50/25 mg,tab
+angiosartan 10mg 28 f.c. tabs.,angiosartan,10 mg,tabs
+angiosartan 20mg 28 f.c. tabs.,angiosartan,20 mg,tabs
+angiosartan 40mg 28 f.c. tabs.,angiosartan,40 mg,tabs
+angiosartan plus 20/12.5mg 28 f.c. tabs.,angiosartan plus,20/12.5 mg,tabs
+angiosartan plus 20/25mg 28 f.c. tabs.,angiosartan plus,20/25 mg,tabs
+angiosartan plus 40/12.5mg 28 f.c. tabs.,angiosartan plus,40/12.5 mg,tabs
+angiosartan plus 40/25mg 28 f.c. tabs.,angiosartan plus,40/25 mg,tabs
+angiovan 5mg 20 tab,angiovan,5 mg,tab
+angiprotect 20 mg 20 tabs.,angiprotect,20 mg,tabs
+angised 0.5mg 100 tab,angised,0.5 mg,tab
+angitect 60mg 20 f.c.tab.,angitect,60 mg,tab
+angosmooth 75mg 30 f.c. tabs.,angosmooth,75 mg,tabs
+angurate 25 bags,angurate,Null,bags
+anika hair conditioner 250 ml,anika hair,250 ml,conditioner
+anika hair serum 75 ml,anika hair,75 ml,serum
+anika hair shampoo 250 ml,anika hair,250 ml,shampoo
+animal shapes usp 60 tab,animal shapes usp,Null,tab
+anise isis sachets,anise isis,Null,sachets
+anisol 20 cap,anisol,Null,cap
+anivagene ampoules man 14*2.5ml,anivagene man,2.5 ml,ampoules
+anivagene ampoules woman 14*2.5ml,anivagene woman,2.5 ml,ampoules
+anivagene anti-dandruff shampoo 200 ml,anivagene anti-dandruff,200 ml,shampoo
+anivagene conditioner 125 ml,anivagene,125 ml,conditioner
+anivagene eyelash serum 10 ml,anivagene eyelash,10 ml,serum
+anivagene hair mask 125 ml,anivagene hair,125 ml,mask
+anivagene shampoo man 200 ml,anivagene man,200 ml,shampoo
+anivagene shampoo woman 200 ml,anivagene woman,200 ml,shampoo
+ankle brace,ankle brace,Null,Null
+anona care hair oil 200 ml,anona care hair,200 ml,oil
+anona hair antifrizz serum 250 ml,anona hair antifrizz,250 ml,serum
+anona hair lotion 120 ml,anona hair,120 ml,lotion
+anona vaginal wash 120 ml,anona vaginal,120 ml,wash
+anoro ellipta 62.5/25mcg inhaler 30 metered doses,anoro ellipta,62.5/25 mcg,inhaler
+anovca cream 50 gm,anovca,50 gm,cream
+anovca tooth gel 30 gm,anovca tooth,30 gm,gel
+anoxicam 20mg 10 supp.,anoxicam,20 mg,supp
+anoxicam 20mg 20 tab.,anoxicam,20 mg,tab
+anschlarin syrup 120 ml,anschlarin,120 ml,syrup
+anselacox 120 mg 10 f.c.tabs.,anselacox,120 mg,tabs
+anselacox 30mg 10 f.c.tabs.,anselacox,30 mg,tabs
+anselacox 60mg 30 f.c. tabs.,anselacox,60 mg,tabs
+anselacox 90mg 30 f.c. tabs,anselacox,90 mg,tabs
+anselafil 10mg/ml susp. 120 ml,anselafil,10 mg/ml,susp
+antacid-jedco 480mg 20 chewable tab.,antacid-jedco,480 mg,chewable tab
+antacidin 240 tab ( chew),antacidin,Null,tab
+antacidin plus 20 tab,antacidin plus,Null,tab
+anthelios dermo-pediatrics spf 50+ lotion 200 ml,anthelios dermo-pediatrics spf 50+,200 ml,lotion
+anthelios dermo-pediatrics spf 50+ spray 200 ml,anthelios dermo-pediatrics spf 50+,200 ml,spray
+anthelios hydrating cream spf50 - 50 ml,anthelios hydrating cream spf50,50 ml,cream

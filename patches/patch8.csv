@@ -1,51 +1,51 @@
-drug_name,dose,form
-adwitine,60 mg,caps
-adwivalsar,160 mg,tabs
-adwivalsar-co,160/12.5 mg,tab
-adwivalsar-co,160/25 mg,tab
-adwivit,120 ml,syrup
-aerius,5 mg,tabs
-aerolin,100 mcg/dose,inhaler
-aeromax- hp,90 mg,cap
-aerotropa nebulizer soln,2.5 ml,amp
-aerotropa nebulizer soln,2.5 ml,amp
-aerrane,100 %,liquid
-aesica-bone,30 mg,tab
-aethoxysklerol,2 %,amp
-aethoxysklerol,3 %,amp
-afinitor,10 mg,tabs
-afinitor,5 mg,tabs
-afri medical,Null,enema
-african mango,1000 mg,caps
-afrin,0.05 %,nasal spray
-afrin adult,0.5 mg/ml,nasal drops
-afrin pediatric,0.25 mg/ml,nasal drops
-afromed,30 mg,caps
-aftamed junior,15 ml,oral gel
-aftamed,150 ml,oral mouth wash
-aftamed,20 ml,oral spray
-aftamed shield,10 ml,oral gel
-after meals,20 mg,caps
-after meals,30 mg,caps
-agar,Null,oral drop
-agario,10 mg,sachets
-agarval,10 mg,sachets
-agastina,120 ml,syrup
-age-less,50 gm,cream
-ageal anti-aging rich,50 ml,cream
-ageal eye contour,15 ml,cream
-agera acne,50 gm,cream
-agera acne facial,150 ml,cleanser
-agera whitening,50 gm,cream
-agera whitening facial,150 ml,cleanser
-aggrastat,12.5 mg/50 ml,i.v. infusion
-aggrex,250 mg,tab
-aggrex,75 mg,tabs
-agiolax,12 mg,granules in sachets
-agnatix,60 ml,syrup
-agnucaston,20 mg,tabs
-agovald,25 mg,tabs
-agreal,100 mg,cap
-agrelocit,50 mg,tab
-agrippal s1,Null,vaccine
-aig alfuzosin xr,10 mg,extended release tab
+original_name,drug_name,dose,form
+adwitine 60 mg 30 caps.,adwitine,60 mg,caps
+adwivalsar 160mg 30 scored f.c. tabs.,adwivalsar,160 mg,tabs
+adwivalsar-co 160/12.5mg 10 scored f.c.tab.,adwivalsar-co,160/12.5 mg,tab
+adwivalsar-co 160/25mg 10 scored f.c. tab.,adwivalsar-co,160/25 mg,tab
+adwivit syrup 120 ml,adwivit,120 ml,syrup
+aerius 5 mg 20 f.c.tabs.,aerius,5 mg,tabs
+aerolin 100mcg/dose inhaler,aerolin,100 mcg/dose,inhaler
+aeromax- hp (eas) 90 cap,aeromax- hp,90 mg,cap
+aerotropa nebulizer soln. 10 amp. 2.5ml,aerotropa nebulizer soln,2.5 ml,amp
+aerotropa nebulizer soln. 20 amp. 2.5ml,aerotropa nebulizer soln,2.5 ml,amp
+aerrane 100% liquid for inhalation (hospitals price),aerrane,100 %,liquid
+aesica-bone 30 tab,aesica-bone,30 mg,tab
+aethoxysklerol 2% 5 amp. (illegal import),aethoxysklerol,2 %,amp
+aethoxysklerol 3% 5 amp,aethoxysklerol,3 %,amp
+afinitor 10 mg 30 tabs.,afinitor,10 mg,tabs
+afinitor 5 mg 30 tabs.,afinitor,5 mg,tabs
+afri medical enema,afri medical,Null,enema
+african mango 1000mg 20 caps,african mango,1000 mg,caps
+afrin 0.05% nasal spray 20 ml,afrin,0.05 %,nasal spray
+afrin adult 0.5mg/ml nasal drops 10 ml,afrin adult,0.5 mg/ml,nasal drops
+afrin pediatric 0.25mg/ml nasal drops 10 ml(n/a),afrin pediatric,0.25 mg/ml,nasal drops
+afromed 30 caps.,afromed,30 mg,caps
+aftamed oral gel junior 15ml,aftamed junior,15 ml,oral gel
+aftamed oral mouth wash 150ml,aftamed,150 ml,oral mouth wash
+aftamed oral spray 20ml,aftamed,20 ml,oral spray
+aftamed shield oral gel 10ml,aftamed shield,10 ml,oral gel
+after meals 20 caps.,after meals,20 mg,caps
+after meals 30 caps.,after meals,30 mg,caps
+agar oral drop,agar,Null,oral drop
+agario 10 sachets,agario,10 mg,sachets
+agarval 10sachets,agarval,10 mg,sachets
+agastina 120 ml syrup,agastina,120 ml,syrup
+age-less cream 50 gm,age-less,50 gm,cream
+ageal anti-aging rich cream 50 ml,ageal anti-aging rich,50 ml,cream
+ageal eye contour cream 15 ml,ageal eye contour,15 ml,cream
+agera acne cream 50 gm,agera acne,50 gm,cream
+agera acne facial cleanser 150 ml,agera acne facial,150 ml,cleanser
+agera whitening cream 50 gm,agera whitening,50 gm,cream
+agera whitening facial cleanser 150 ml,agera whitening facial,150 ml,cleanser
+aggrastat 12.5mg/50ml i.v. infusion,aggrastat,12.5 mg/50 ml,i.v. infusion
+aggrex 250mg 20 tab.,aggrex,250 mg,tab
+aggrex 75mg 60 tabs.,aggrex,75 mg,tabs
+agiolax 12 granules in sachets,agiolax,12 mg,granules in sachets
+agnatix syrup 60 ml,agnatix,60 ml,syrup
+agnucaston 20 mg 30 f.c.tabs,agnucaston,20 mg,tabs
+agovald 25mg 21 f.c. tabs,agovald,25 mg,tabs
+agreal 100 mg 20 cap,agreal,100 mg,cap
+agrelocit 50 mg 20 tab.,agrelocit,50 mg,tab
+agrippal s1 vaccine,agrippal s1,Null,vaccine
+aig alfuzosin xr 10mg 10 extended release f.c.tab,aig alfuzosin xr,10 mg,extended release tab

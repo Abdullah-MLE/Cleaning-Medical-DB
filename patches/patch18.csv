@@ -1,51 +1,51 @@
-drug_name,dose,form
-amaryl,4 mg,tabs
-amaryl m,2/500 mg,tabs
-ambezim-g,Null,tabs
-ambisome,50 mg,vial
-ambrodoxy,Null,caps
-ambropro,20 mg,lozenges
-ambropro,20 mg,lozenges
-ambroxol,15 mg/5 ml,syp
-ambroxol,30 mg,tab
-ambroxol,7.5 mg/ml,oral drops
-ambroxol,75 mg,caps
-amcinol,40 mg/ml,amp
-amebazol,1 gm,tabs
-ameillia intimate feminine,250 ml,wash
-ameropem,1 gm,vial
-ameropem,500 mg,vial
-ametic,10 mg/2 ml,amp
-amfipen,125 mg/5 ml,susp
-amfipen,250 mg,cap
-amfipen,250 mg/5 ml,susp
-amfipen,500 mg,cap
-amflux,1 g,vial
-amflux,500 mg,vial
-amgevita,40 mg/0.8 ml,syringes
-amgevita,40 mg/0.8 ml,pens
-amigraine adco,Null,tablets
-amigrawest,2.5 mg,tab
-amikabiotic,100 mg/2 ml,amp
-amikabiotic,500 mg/2 ml,amp
-amikacin,500 mg,vial
-amikacin amoun,100 mg/2 ml,vial
-amikacin amoun,250 mg/2 ml,vial
-amikacin amoun,500 mg/2 ml,vial
-amikacin eipico,100 mg/2 ml,vial
-amikacin eipico,500 mg/2 ml,vial
-amikacin,100 ml,spray
-amikaskiv,1000 mg/4 ml,soln
-amikaskiv,250 mg/2 ml,vial
-amikaskiv,500 mg/2 ml,vial
-amikin,100 mg/2 ml,vial
-amikin,250 mg/2 ml,vial
-amikin,500 mg/2 ml,vial
-amilo,10 mg,tab
-amilo,5 mg,tab
-amilo plus,5/160 mg,tab
-aminess,400 ml,infusion
-amino (anabolic),Null,tablets
-amino 10000,Null,cap
-amino 18,Null,capsules
-amino 22000,Null,cap
+original_name,drug_name,dose,form
+amaryl 4 mg 30 tabs,amaryl,4 mg,tabs
+amaryl m 2/500 mg 30 f.c.tabs.,amaryl m,2/500 mg,tabs
+ambezim-g 30 f.c. tabs.,ambezim-g,Null,tabs
+ambisome 50mg i.v. vial,ambisome,50 mg,vial
+ambrodoxy 10 caps.,ambrodoxy,Null,caps
+ambropro 20 mg 20 lozenges,ambropro,20 mg,lozenges
+ambropro 20 mg 200 lozenges,ambropro,20 mg,lozenges
+ambroxol 15 mg/5ml syp. 120 ml,ambroxol,15 mg/5 ml,syp
+ambroxol 30mg 20 tab.,ambroxol,30 mg,tab
+ambroxol 7.5mg/ml oral drops 15 ml,ambroxol,7.5 mg/ml,oral drops
+ambroxol 75mg s.r 10 caps.,ambroxol,75 mg,caps
+amcinol 40mg/ml i.m amp.,amcinol,40 mg/ml,amp
+amebazol 1gm 2 f.c. tabs.,amebazol,1 gm,tabs
+ameillia intimate feminine wash 250 ml,ameillia intimate feminine,250 ml,wash
+ameropem 1 gm i.v. vial,ameropem,1 gm,vial
+ameropem 500 mg i.v. vial,ameropem,500 mg,vial
+ametic 10mg/2ml 3 amp. for i.m./i.v. inj.,ametic,10 mg/2 ml,amp
+amfipen 125mg/5ml susp 60 ml,amfipen,125 mg/5 ml,susp
+amfipen 250 mg 12 cap,amfipen,250 mg,cap
+amfipen 250mg/5ml susp 60 ml,amfipen,250 mg/5 ml,susp
+amfipen 500 mg 12 cap,amfipen,500 mg,cap
+amflux 1 g vial,amflux,1 g,vial
+amflux 500mg vial,amflux,500 mg,vial
+amgevita 40mg/0.8ml 2 pref. syringes,amgevita,40 mg/0.8 ml,syringes
+amgevita 40mg/0.8ml 2 prefilled pens,amgevita,40 mg/0.8 ml,pens
+amigraine adco 30 tablets,amigraine adco,Null,tablets
+amigrawest 2.5mg 4 f.c. tab,amigrawest,2.5 mg,tab
+amikabiotic 100mg/2ml 3 amp.,amikabiotic,100 mg/2 ml,amp
+amikabiotic 500mg/2ml 3 amp.,amikabiotic,500 mg/2 ml,amp
+amikacin 500mg vial (Amoun),amikacin,500 mg,vial
+amikacin amoun 100mg/2ml vial,amikacin amoun,100 mg/2 ml,vial
+amikacin amoun 250mg/2ml vial,amikacin amoun,250 mg/2 ml,vial
+amikacin amoun 500mg/2ml vial,amikacin amoun,500 mg/2 ml,vial
+amikacin eipico 100mg/2ml i.m./i.v. vial,amikacin eipico,100 mg/2 ml,vial
+amikacin eipico 500mg/2ml i.m./i.v. vial,amikacin eipico,500 mg/2 ml,vial
+amikacin spray 100 ml,amikacin,100 ml,spray
+amikaskiv 1000mg/4ml i.m./i.v. soln. for inj.,amikaskiv,1000 mg/4 ml,soln
+amikaskiv 250mg/2ml vial,amikaskiv,250 mg/2 ml,vial
+amikaskiv 500mg/2ml vial,amikaskiv,500 mg/2 ml,vial
+amikin 100mg/2ml vial (n/a),amikin,100 mg/2 ml,vial
+amikin 250mg/2ml vial (n/a),amikin,250 mg/2 ml,vial
+amikin 500mg/2ml vial (n/a),amikin,500 mg/2 ml,vial
+amilo 10mg 20 tab.,amilo,10 mg,tab
+amilo 5 mg 30 tab.,amilo,5 mg,tab
+amilo plus 5/160mg 10 tab.,amilo plus,5/160 mg,tab
+aminess 400 ml p- infusion,aminess,400 ml,infusion
+amino (anabolic) 100 tablets,amino (anabolic),Null,tablets
+amino 10000 120cap,amino 10000,Null,cap
+amino 18 - 30 capsules,amino 18,Null,capsules
+amino 22000 - 120 cap,amino 22000,Null,cap

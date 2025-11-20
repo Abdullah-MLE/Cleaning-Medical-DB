@@ -1,51 +1,51 @@
-drug_name,dose,form
-abimol extra,Null,tablet
-abionem,60 gm,cream
-abital oral,30 ml,spray
-abivit c,Null,effervescent tablet
-abrammune,100 mg,capsule
-abrammune,100 mg/ml,syrup
-abrammune,25 mg,capsule
-abrammune,50 mg,capsule
-abrammune,50 mg/ml,syrup
-abraxane,100 mg,vial
-absorbable selenium,200 mcg,softgel
-abstain,150 mg,tablet
-abstral,100 mcg,sublingual tablet
-abstral,200 mcg,sublingual tablet
-abstral,400 mcg,sublingual tablet
-abylata 10 pieces,Null,Null
-acadia blair liquid,200 ml,conditioner
-acadia destina baby,60 gm,cream
-acadia destina,120 ml,lotion
-acadia herashow oil,120 ml,spray
-acadia herashow,200 ml,shampoo
-acadia konda hair,200 gm,mask
-acai,1000 mg,softgel
-acai berry 60,Null,capsule
-acanthaprop,1 mg/ml,eye drop
-acapril,20 mg,tablet
-acapril,5 mg,tablet
-acavio massage,50 gm,gel
-acc,200 mg,sachet
-acc long,600 mg,effervescent tablet
-accelafen,Null,tablet
-accent,30 gm,cream
-accent,50 gm,cream
-accofil,30 miu/0.5 ml,prefilled syringe
-accolate,20 mg,tablet
-acdisteron,25 mg,tablet
-aceclocopa,100 mg,tablet
-aceczema,15 gm,cream
-aceliofinaz,100 mg,tablet
-acemetacin stada,60 mg,capsule
-acenewrax,200 mg,sachet
-acenewrax,600 mg,sachet
-acerumen ear,40 ml,spray
-acesolv,2 %,syrup
-acetalgan,1 gm/100 ml,vial
-acetamex,250 mg,tablet
-acetaminophen,125 mg,suppository
-acetaminophen,500 mg,tablet
-acetapax,Null,sachet
-acetaprofen,100 ml,suspension
+original_name,drug_name,dose,form
+abimol extra 20 tab.,abimol extra,Null,tablet
+abionem cream 60 gm,abionem,60 gm,cream
+abital oral spray 30 ml,abital oral,30 ml,spray
+abivit c eff 12 tab,abivit c,Null,effervescent tablet
+abrammune 100 mg 50 capsules(n/a yet),abrammune,100 mg,capsule
+abrammune 100mg/ml syrup(n/a yet),abrammune,100 mg/ml,syrup
+abrammune 25 mg 10 caps.(n/a yet),abrammune,25 mg,capsule
+abrammune 50 mg 10 caps.(n/a yet),abrammune,50 mg,capsule
+abrammune 50mg/ml syrup(n/a yet),abrammune,50 mg/ml,syrup
+abraxane 100mg vial $$,abraxane,100 mg,vial
+absorbable selenium 200 mcg 100 caps. (illegal import),absorbable selenium,200 mcg,softgel
+abstain sr 150 mg 20 tab.,abstain,150 mg,tablet
+abstral 100mcg 10 sublingual tabs.,abstral,100 mcg,sublingual tablet
+abstral 200mcg 10 sublingual tabs.,abstral,200 mcg,sublingual tablet
+abstral 400mcg 10 sublingual tabs,abstral,400 mcg,sublingual tablet
+abylata 10 pieces,abylata 10 pieces,Null,Null
+acadia blair liquid conditioner 200 ml,acadia blair liquid,200 ml,conditioner
+acadia destina baby cream 60 gm,acadia destina baby,60 gm,cream
+acadia destina lotion 120 ml,acadia destina,120 ml,lotion
+acadia herashow oil spray 120 ml,acadia herashow oil,120 ml,spray
+acadia herashow shampoo 200 ml,acadia herashow,200 ml,shampoo
+acadia konda hair mask 200 gm,acadia konda hair,200 gm,mask
+acai 1000 mg 60 softgels (illegal import),acai,1000 mg,softgel
+acai berry 60 veg. caps. (natrol),acai berry 60,Null,capsule
+acanthaprop 1mg/ml eye drops 10 ml,acanthaprop,1 mg/ml,eye drop
+acapril 20mg 20 tab.,acapril,20 mg,tablet
+acapril 5 mg 10 tab.,acapril,5 mg,tablet
+acavio massage gel 50 gm,acavio massage,50 gm,gel
+acc 200mg 20 sachets,acc,200 mg,sachet
+acc long 600mg 5 effervescent tab.,acc long,600 mg,effervescent tablet
+accelafen 30 f.c.tabs.,accelafen,Null,tablet
+accent cream 30 gm,accent,30 gm,cream
+accent cream 50 gm,accent,50 gm,cream
+accofil 30 miu/0.5ml 5 prefilled syringes,accofil,30 miu/0.5 ml,prefilled syringe
+accolate 20mg 28 tab.,accolate,20 mg,tablet
+acdisteron 25mg 20 f.c. tabs,acdisteron,25 mg,tablet
+aceclocopa 100 mg 20 f.c. tab.,aceclocopa,100 mg,tablet
+aceczema cream 15 gm,aceczema,15 gm,cream
+aceliofinaz 100 mg 20 f.c. tab.,aceliofinaz,100 mg,tablet
+acemetacin stada 60mg 20 caps.,acemetacin stada,60 mg,capsule
+acenewrax 200 mg 10 sachets,acenewrax,200 mg,sachet
+acenewrax 600 mg 10 sachets,acenewrax,600 mg,sachet
+acerumen ear spray 40 ml,acerumen ear,40 ml,spray
+acesolv 2% syrup 60ml,acesolv,2 %,syrup
+acetalgan 1 gm/100ml sol. for i.v. vial (n/a),acetalgan,1 gm/100 ml,vial
+acetamex 250mg 20 tab.,acetamex,250 mg,tablet
+acetaminophen 125mg paed. supp.u.s.p.xxiii,acetaminophen,125 mg,suppository
+acetaminophen 500mg 20 tab,acetaminophen,500 mg,tablet
+acetapax 14 sachets,acetapax,Null,sachet
+acetaprofen 100ml susp.,acetaprofen,100 ml,suspension

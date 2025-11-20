@@ -1,51 +1,51 @@
-drug_name,dose,form
-antiflu,20 mg,capsule
-antikramp,5 mg/2 ml,ampoule
-antimigrozan,2.5 mg,dispersible tabs
-antimigrozan,5 mg,dispersible tabs
-antimo massage,Null,gel
-antimycot,Null,drops
-antinal,200 mg,capsule
-antinal,220 mg/5 ml,suspension
-antioxidant plus,20 mg,capsule
-antiretro,200 mg,capsule
-antiscar,Null,viscous solution
-antiseptol,1 mg/ml,mouth wash
-antiver,100 mg,tablet
-antiver,100 mg/5 ml,suspension
-antizole,100 mg/5 ml,suspension
-antizole,200 mg,tablet
-antodine,10 mg,chewable tab
-antodine,20 mg,effervescent tabs
-antodine,20 mg,tablet
-antodine,20 mg/2 ml,ampoule
-antodine,40 mg,tablet
-antodine,40 mg/5 ml,powder for oral suspension
-antopral,20 mg,tablet
-antopral,40 mg,tablet
-antopral,40 mg,powder for i.v. inf. vial
-antox,30 mg,tablet
-anusol,Null,ointment
-anusol 6,Null,suppository
-anusol hc,Null,ointment
-anusol hc 6,Null,suppository
-anuva,50 mg,dispersible tabs
-anviziram,200 mg,tablet
-anviziram,200 mg,tablet
-anxbeat,15 mg,tablet
-anzatax,6 mg/ml,i.v. inf. vial
-anzatax,6 mg/ml,i.v. inf. vial
-anzatax,6 mg/ml,i.v. inf. vial
-anzoptima,665 mg,mr tabs
-apcalis,20 mg,film coated tab
-aperitif,Null,syrup
-apetoid,100 mg,tablet
-apetoid,20 mg,tablet
-apetryl,0.5 mg,tablet
-apetryl,2 mg,tablet
-apexawestan,2.5 mg,tablet
-apexawestan,2.5 mg,tablet
-apexazole,1 %,cream
-apexazole,1 %,topical lotion
-apexidone,0.5 mg,tablet
-apexidone,1 mg,tablet
+original_name,drug_name,dose,form
+antiflu 20 cap,antiflu,20 mg,capsule
+antikramp 5mg/2ml i.v./i.m. 1 amp.,antikramp,5 mg/2 ml,ampoule
+antimigrozan 2.5mg 6 dis. tabs,antimigrozan,2.5 mg,dispersible tabs
+antimigrozan 5mg 6 dis. tabs,antimigrozan,5 mg,dispersible tabs
+antimo massage gel 75 gm,antimo massage,Null,gel
+antimycot 30 ml drops,antimycot,Null,drops
+antinal 200mg 24 capsules,antinal,200 mg,capsule
+antinal 220mg/5ml 60ml susp.,antinal,220 mg/5 ml,suspension
+antioxidant plus 20 cap,antioxidant plus,20 mg,capsule
+antiretro 200 mg 10 caps.(n/a yet),antiretro,200 mg,capsule
+antiscar viscous solution 50 ml,antiscar,Null,viscous solution
+antiseptol 1mg/ml mouth wash 120 ml,antiseptol,1 mg/ml,mouth wash
+antiver 100mg 20*6 tabs.,antiver,100 mg,tablet
+antiver 100mg/5ml susp. 30ml,antiver,100 mg/5 ml,suspension
+antizole 100mg/5ml susp. 30ml,antizole,100 mg/5 ml,suspension
+antizole 200mg 2 tab.,antizole,200 mg,tablet
+antodine 10mg 10 chewable tab,antodine,10 mg,chewable tab
+antodine 20 mg 10 effervescent tabs.,antodine,20 mg,effervescent tabs
+antodine 20mg 30 f.c.tab,antodine,20 mg,tablet
+antodine 20mg/2ml 3 i.m. or i.v. amps.,antodine,20 mg/2 ml,ampoule
+antodine 40mg 30 f.c. tablets,antodine,40 mg,tablet
+antodine 40mg/5ml powder for oral suspension 60 ml,antodine,40 mg/5 ml,powder for oral suspension
+antopral 20mg 14 tab,antopral,20 mg,tablet
+antopral 40mg 14 tab.,antopral,40 mg,tablet
+antopral 40mg powder for i.v. inf. vial,antopral,40 mg,powder for i.v. inf. vial
+antox 30 tabs,antox,30 mg,tablet
+anusol 25g oint,anusol,Null,ointment
+anusol 6 supp,anusol 6,Null,suppository
+anusol hc 15g oint.,anusol hc,Null,ointment
+anusol hc 6 supp,anusol hc 6,Null,suppository
+anuva 50mg 10 dispersible tab.,anuva,50 mg,dispersible tabs
+anviziram 200 mg 100 f.c. tabs. (hospitals only),anviziram,200 mg,tablet
+anviziram 200 mg 40 f.c.tabs.,anviziram,200 mg,tablet
+anxbeat 15 mg 10 tab.,anxbeat,15 mg,tablet
+anzatax 6mg/ml (150mg )i.v. inf. vial,anzatax,6 mg/ml,i.v. inf. vial
+anzatax 6mg/ml (300mg) i.v. inf. vial,anzatax,6 mg/ml,i.v. inf. vial
+anzatax 6mg/ml (30mg ) i.v. inf.vial,anzatax,6 mg/ml,i.v. inf. vial
+anzoptima 665 mg 24 mr tabs,anzoptima,665 mg,mr tabs
+apcalis 20 mg 4 film coated tab,apcalis,20 mg,film coated tab
+aperitif syrup 120 ml,aperitif,Null,syrup
+apetoid 100mg 3 f.c.tab.,apetoid,100 mg,tablet
+apetoid 20mg 30 f.c.tab.,apetoid,20 mg,tablet
+apetryl 0.5mg 50 tab.,apetryl,0.5 mg,tablet
+apetryl 2mg 30 tab.,apetryl,2 mg,tablet
+apexawestan 2.5 mg 10 f.c. tabs.,apexawestan,2.5 mg,tablet
+apexawestan 2.5 mg 30 f.c. tabs.,apexawestan,2.5 mg,tablet
+apexazole 1% cream 15 gm,apexazole,1 %,cream
+apexazole 1%topical lotion 15 ml,apexazole,1 %,topical lotion
+apexidone 0.5mg 30 f.c.tab.,apexidone,0.5 mg,tablet
+apexidone 1mg 20 f.c.tab.,apexidone,1 mg,tablet

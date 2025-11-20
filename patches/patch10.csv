@@ -1,51 +1,51 @@
-drug_name,dose,form
-albumin (human ) u.s.p,5 %,vial
-albumin human,20 %,infusion
-albumin human,20 %,infusion
-albumin- kgc cc,50 ml,vial
-albumina tive,96 %,infusion
-albumina umana isi,20 %,vial
-albunorm,20 %,infusion
-albustix,16 mg,tabs
-albustix,32 mg,tabs
-albustix,4 mg,tab
-albustix,8 mg,tabs
-albustix d,16/12.5 mg,tab
-albustix d,32/12.5 mg,tab
-albustix d,32/25 mg,tab
-albustix d,8/12.5 mg,tab
-albutein,20 %,infusion
-alcaftapro,0.25 %,eye drops
-alcagent,100 ml,mouth wash
-alcina eye,15 ml,cream
-alcofan,100 mg,supp
-alcofan,2.5 %,gel
-alcofan,25 mg,tabs
-alcofan,50 mg,caps
-aldactazide,0,tab
-aldactone,100 mg,tab
-aldactone,25 mg,tab
-aldara,5 %,cream
-aldomet,250 mg,tab
-aldomet,500 mg,tab
-aldospira,25 mg,tabs
-aldospira,50 mg,tabs
-aleavia,20 ml,ear drops
-alecensa,150 mg,caps
-aleco care,120 gm,cream
-aleen,75 ml,serum
-alejon acne,50 gm,cream
-alejon after sun,200 gm,gel
-alejon anti-dandruff,200 ml,shampoo
-alejon anti-hair loss,200 ml,shampoo
-alejon bi phase hair,200 ml,spray
-alejon collagen,50 ml,serum
-alejon deodorant,50 ml,0
-alejon dry skin,150 ml,cleanser
-alejon eye contour,30 ml,cream
-alejon eye contour,30 ml,serum
-alejon facial moisturizer,75 gm,0
-alejon facial moisturizer,75 gm,gel
-alejon facial,200 ml,toner
-alejon hair,3 ml,vials
-alejon hair,200 ml,conditioner
+original_name,drug_name,dose,form
+albumin (human ) u.s.p 5% 1 vial 250 ml,albumin (human ) u.s.p,5 %,vial
+albumin human 20% (100ml) i.v infusion,albumin human,20 %,infusion
+albumin human 20% (50ml) i.v infusion,albumin human,20 %,infusion
+albumin- kgc cc 50 ml vial,albumin- kgc cc,50 ml,vial
+albumina tive 96% i.v. infusion,albumina tive,96 %,infusion
+albumina umana isi 20 % vial,albumina umana isi,20 %,vial
+albunorm 20% i.v.infusion (hospitals price),albunorm,20 %,infusion
+albustix 16 mg 30 tabs.,albustix,16 mg,tabs
+albustix 32 mg 30 tabs.,albustix,32 mg,tabs
+albustix 4mg 30 tab.,albustix,4 mg,tab
+albustix 8 mg 30 tabs.,albustix,8 mg,tabs
+albustix d 16/12.5mg 30 tab.,albustix d,16/12.5 mg,tab
+albustix d 32/12.5mg 30 tab.,albustix d,32/12.5 mg,tab
+albustix d 32/25mg 30 tab.,albustix d,32/25 mg,tab
+albustix d 8/12.5mg 30 tab.,albustix d,8/12.5 mg,tab
+albutein 20% i.v. infusion (hospitals only),albutein,20 %,infusion
+alcaftapro 0.25% eye drops 3 ml,alcaftapro,0.25 %,eye drops
+alcagent mouth wash 100ml,alcagent,100 ml,mouth wash
+alcina eye cream 15 ml (n/a),alcina eye,15 ml,cream
+alcofan 100 mg 5 supp.,alcofan,100 mg,supp
+alcofan 2.5% gel 30 gm,alcofan,2.5 %,gel
+alcofan 25 mg 20 tabs.,alcofan,25 mg,tabs
+alcofan 50 mg 12 caps.,alcofan,50 mg,caps
+aldactazide 20 tab,aldactazide,0,tab
+aldactone 100mg 20 tab,aldactone,100 mg,tab
+aldactone 25mg 20 tab,aldactone,25 mg,tab
+aldara 5% cream 12 sachets,aldara,5 %,cream
+aldomet 250 mg 30 tab,aldomet,250 mg,tab
+aldomet 500 mg 20 tab,aldomet,500 mg,tab
+aldospira 25 mg 20 tabs.,aldospira,25 mg,tabs
+aldospira 50 mg 20 tabs.,aldospira,50 mg,tabs
+aleavia ear drops 20 ml,aleavia,20 ml,ear drops
+alecensa 150 mg 224 caps.,alecensa,150 mg,caps
+aleco care cream 120 gm,aleco care,120 gm,cream
+aleen serum 75 ml,aleen,75 ml,serum
+alejon acne cream 50 gm,alejon acne,50 gm,cream
+alejon after sun gel 200 gm,alejon after sun,200 gm,gel
+alejon anti-dandruff shampoo 200 ml,alejon anti-dandruff,200 ml,shampoo
+alejon anti-hair loss shampoo 200 ml,alejon anti-hair loss,200 ml,shampoo
+alejon bi phase hair spray 200 ml,alejon bi phase hair,200 ml,spray
+alejon collagen serum 50 ml,alejon collagen,50 ml,serum
+alejon deodorant roll on 50 ml,alejon deodorant,50 ml,0
+alejon dry skin cleanser 150 ml,alejon dry skin,150 ml,cleanser
+alejon eye contour cream 30 ml,alejon eye contour,30 ml,cream
+alejon eye contour serum 30 ml,alejon eye contour,30 ml,serum
+alejon facial moisturizer for dry skin 75 gm,alejon facial moisturizer,75 gm,0
+alejon facial moisturizer gel 75 gm,alejon facial moisturizer,75 gm,gel
+alejon facial toner 200 ml,alejon facial,200 ml,toner
+alejon hair 15 vials x 3 ml,alejon hair,3 ml,vials
+alejon hair conditioner 200 ml,alejon hair,200 ml,conditioner

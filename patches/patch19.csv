@@ -1,51 +1,51 @@
-drug_name,dose,form
-amino 22000 whey c,100 mg,cap
-amino 22000 whey c,150 mg,cap
-amino 22000 whey c,60 mg,cap
-amino 2222,300 mg,cap
-amino 2222,320 mg,tab
-amino high protein,2222 mg,cap
-amino acid 1200 complex,Null,cap
-amino acid,1600 unit,tab
-amino cal,30 mg,tab
-amino forto,500 mg,tab
-amino fuel,2000 mg,tab
-amino fuel with calcium,2222 mg,cap
-amino fuel,2222 mg,cap
-amino fuel (vanillia),794 gm,powder
-amino fuel (strawberry),798 gm,powder
-amino fuel,948 ml,liquid
-amino fuel (chocolate),817 gm,powder
-amino plus,10 mg,tab
-amino (chocolate),0.5 kg,powder
-amino (vanillia),0.5 kg,powder
-amino vit,100 gm,Null
-amino whey 9999 (anabolic) (chocolate),Null,sachets
-amino whey 9999 (vanilla),Null,sachets
-amino whey 9999 (anabolic) (apple),Null,sachets
-amino-acid complex,1200 mg,tab
-aminofuel,150 mg,tab
-aminofuel,60 mg,tab
-aminoleban,500 ml,infusion
-aminoleban (net price),450 gm,powder
-aminophlline,120 ml,syrup
-aminoplasmal e,10 %,infusion
-aminoplasmal,10 %,infusion
-aminoplasmal e,5 %,infusion
-aminoplasmal hepa,10 %,infusion
-aminorenocare,Null,tab
-aminosteril n- hepa,8 %,solution
-aminosteril ke,10 %,infusion
-aminots gh,120 mg,cap
-aminoven,10 %,infusion
-aminoven,15 %,infusion
-aminoven infant,10 %,infusion
-aminoven infant,10 %,infusion
-aminovenous n.paed,6 %,infusion
-aminta,10 %,infusion
-aminta,Null,chewable pieces
-aminta,Null,chewable pieces
-amiparen,10 %,infusion
-amiparen,10 %,infusion
-amipride,100 mg,tab
-amipride,200 mg,scored tab
+original_name,drug_name,dose,form
+amino 22000 whey c 100 cap,amino 22000 whey c,100 mg,cap
+amino 22000 whey c 150 cap,amino 22000 whey c,150 mg,cap
+amino 22000 whey c 60 cap,amino 22000 whey c,60 mg,cap
+amino 2222 300 cap,amino 2222,300 mg,cap
+amino 2222 320 tab,amino 2222,320 mg,tab
+amino 2222 mg high protein 90 cap,amino high protein,2222 mg,cap
+amino acid 1200 complex 12 cap,amino acid 1200 complex,Null,cap
+amino acid 1600 unit / tab,amino acid,1600 unit,tab
+amino cal 30 tab,amino cal,30 mg,tab
+amino forto 500 mg 20 tabs,amino forto,500 mg,tab
+amino fuel 2000 mg 150 tab,amino fuel,2000 mg,tab
+amino fuel 2222 60 cap with calcium,amino fuel with calcium,2222 mg,cap
+amino fuel 2222 90 cap,amino fuel,2222 mg,cap
+amino fuel 794 gm powder ( vanillia ),amino fuel (vanillia),794 gm,powder
+amino fuel 798 gm powder ( strawberry ),amino fuel (strawberry),798 gm,powder
+amino fuel anabolic*liquid 948 ml,amino fuel,948 ml,liquid
+amino fuel powder 817 gm ( chocolate ),amino fuel (chocolate),817 gm,powder
+amino plus 10 tab,amino plus,10 mg,tab
+amino powder 0.5 kg chocolate,amino (chocolate),0.5 kg,powder
+amino powder 0.5 kg vanillia,amino (vanillia),0.5 kg,powder
+amino vit 100 gm,amino vit,100 gm,Null
+amino whey 9999 (anabolic) 30 sachets chocolate,amino whey 9999 (anabolic) (chocolate),Null,sachets
+amino whey 9999 30 sachets vanilla,amino whey 9999 (vanilla),Null,sachets
+amino whey 9999 anabolic 30 sachets apple,amino whey 9999 (anabolic) (apple),Null,sachets
+amino-acid complex 1200mg 12 tab,amino-acid complex,1200 mg,tab
+aminofuel 150 tab,aminofuel,150 mg,tab
+aminofuel 60 tab,aminofuel,60 mg,tab
+aminoleban i.v. infusion 500 ml,aminoleban,500 ml,infusion
+aminoleban oral powder 450 gm (net price),aminoleban (net price),450 gm,powder
+aminophlline syrup 120 ml,aminophlline,120 ml,syrup
+aminoplasmal 10% e i.v.infusion,aminoplasmal e,10 %,infusion
+aminoplasmal 10% i.v.infusion,aminoplasmal,10 %,infusion
+aminoplasmal 5% e i.v.infusion,aminoplasmal e,5 %,infusion
+aminoplasmal hepa 10%  i.v.infusion,aminoplasmal hepa,10 %,infusion
+aminorenocare 100 f.c. tabs.,aminorenocare,Null,tab
+aminosteril 8% n- hepa sol 500 ml,aminosteril n- hepa,8 %,solution
+aminosteril ke 10% infusion (n/a),aminosteril ke,10 %,infusion
+aminots gh 120 cap,aminots gh,120 mg,cap
+aminoven 10% (500ml) i.v.infusion,aminoven,10 %,infusion
+aminoven 15% (500ml) i.v.infusion,aminoven,15 %,infusion
+aminoven infant 10% (100ml) i.v.infusion,aminoven infant,10 %,infusion
+aminoven infant 10% 250 ml i.v.infusion,aminoven infant,10 %,infusion
+aminovenous n.paed 6% i.v.infusion,aminovenous n.paed,6 %,infusion
+aminta  10% i.v. inf. 250 ml,aminta,10 %,infusion
+aminta 24 chewable pieces,aminta,Null,chewable pieces
+aminta 30 chewable pieces,aminta,Null,chewable pieces
+amiparen 10% (250ml) i.v. inf.,amiparen,10 %,infusion
+amiparen 10% (500ml) i.v. inf.,amiparen,10 %,infusion
+amipride 100mg 30 tab,amipride,100 mg,tab
+amipride 200 mg 20 scored tab,amipride,200 mg,scored tab

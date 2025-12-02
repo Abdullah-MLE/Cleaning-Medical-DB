@@ -76,7 +76,6 @@ def aggregate_patches():
 class DrugItem(BaseModel):
     drug_name: str = Field(description="Clean medicine name only without dosage.")
     dose: str = Field(description="Extracted dosage value. If missing, return '0'.")
-    form: str = Field(description="Form of the drug. If missing, return '0'.")
 
 
 class DrugBatch(BaseModel):
@@ -100,7 +99,6 @@ def extract_from_chunk(lines):
 
     1. drug_name → The clean medicine name ONLY.
     2. dose → Must contain a number + a unit.
-    3. form → The form of the drug.
 
     Rules:
     - Always format doses correctly.
@@ -173,9 +171,9 @@ def add_original_name_to_existing_patches():
 def main():
 
     # ----- Load & clean data -----
-    df = pd.read_csv('source/Egypt-drugs-database/(CSV) New prices up to 03-08-2024.csv')
-    df = remove_cols(df)
-    df = remove_duplicates(df)
+    df = pd.read_csv('source\missing_products_to_process.csv')
+    # df = remove_cols(df)
+    # df = remove_duplicates(df)
     df = sort_by_name(df)
 
     tradenames = np.array(df['tradename'])
@@ -196,8 +194,7 @@ def main():
             {
                 "original_name": chunks[i][idx],          # NEW: original name
                 "drug_name": item.drug_name,
-                "dose": item.dose,
-                "form": item.form
+                "dose": item.dose
             }
             for idx, item in enumerate(result.items)
         ]
@@ -209,7 +206,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
-    aggregate_patches()
-    
-
+    main()
+    # aggregate_patches()
